@@ -1,0 +1,32 @@
+{
+    "Campo": {
+        "DATA_BASE": "Data de competência da informação",
+        "CLIENTE": "Identificação se o cliente é pessoa física ou pessoa jurídica",
+        "ESTADO": "Estado da operação",
+        "SUB_REGIAO": "Subregiao da operação",
+        "MODALIDADE": "Modalidade de operação",
+        "RISCO": "Faixa de risco da operação",
+        "OPERACOES": "Quantidade de operações",
+        "CARTEIRA": "Volume de Carteira das operações"
+    },
+    "Tipo": {
+        "DATA_BASE": "int",
+        "CLIENTE": "string",
+        "ESTADO": "string",
+        "SUB_REGIAO": "int",
+        "MODALIDADE": "string",
+        "RISCO": "string",
+        "OPERACOES": "int",
+        "CARTEIRA": "float"
+    },
+    "Descrição": {
+        "DATA_BASE": "Data de competência da informação",
+        "CLIENTE": "Identificação se o cliente é pessoa física ou pessoa jurídica",
+        "ESTADO": "Estado da operação",
+        "SUB_REGIAO": "Subregiao da operação",
+        "MODALIDADE": "Modalidade de operação",
+        "RISCO": "Faixa de risco da operação",
+        "OPERACOES": "Quantidade de operações",
+        "CARTEIRA": "Volume de Carteira das operações"
+    }
+}
